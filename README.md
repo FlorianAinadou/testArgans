@@ -1,6 +1,17 @@
 # Interactive map
 Subject: Building an interactive map showing some places using react, leaflet and redux 
 
+For this project, I used create-react-app to build this react web app.
+Leaflet has been used for the map.
+Redux has been used to manage the data through components.
+
+
+## Project requirements
+- Node
+Instruction to install node are available on https://nodejs.org/en/download/
+- NPM
+Instruction to install npm are available on https://www.npmjs.com/get-npm 
+
 
 ## Getting the project
 
@@ -30,7 +41,7 @@ Subject: Building an interactive map showing some places using react, leaflet an
   
     ```
     
-3. Run the project
+## Run the project
 
    ```bash
     npm start  
